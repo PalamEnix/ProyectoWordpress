@@ -1,0 +1,14 @@
+/*
+Theme Name:     Hestia Child
+Template:       Hestia
+Author:         Marco Palma Jiménez
+Requires PHP:   5.4.0
+Description:    A child theme based on Hestia
+Version:        1.0.0
+License:        GNU General Public License v2 or later
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:    hestia
+*/
+
+@import url(../hestia/style.css);
+@import url(./assets/css/style.css);
