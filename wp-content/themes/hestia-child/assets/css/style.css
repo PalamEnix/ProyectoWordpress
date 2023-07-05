@@ -26,6 +26,10 @@
     background: #0a0a0a;
 }
 
+a {
+  color: #f3f3f3 !important;
+}
+
 .navbar {
   margin-top: 0px;
   background-color: transparent;
@@ -51,12 +55,18 @@ body.admin-bar .navbar {
   color: #f3f3f3;
 }
 
+body {
+  direction: ltr;
+  color: #cfcfcf;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
 .title-in-content {
   color: #f3f3f3;
 }
 
 .has-text-color.has-background-color-color {
-  color: #ffffff;
+  color: #f3f3f3;
 }
 
 .header-filter-gradient {
