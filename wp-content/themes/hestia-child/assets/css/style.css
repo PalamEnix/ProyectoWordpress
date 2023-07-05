@@ -188,17 +188,17 @@ body.admin-bar .navbar {
 {
   background-color:#3b5998
 }
-.social-icons a.twitter:hover
+.social-icons a.behance:hover
 {
-  background-color:#00aced
+  background-color:#222222
 }
 .social-icons a.linkedin:hover
 {
   background-color:#007bb6
 }
-.social-icons a.dribbble:hover
+.social-icons a.instagram:hover
 {
-  background-color:#ea4c89
+  background-color:#be3e73
 }
 @media (max-width:767px)
 {
