@@ -16,7 +16,8 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>Sobre Mí</h6>
-            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac pharetra lorem. Aenean mattis, risus sed maximus cursus, magna erat scelerisque ligula, a pellentesque mi velit eu tortor. Nulla eu eleifend mauris, ut tristique metus. Mauris sed arcu sit amet ipsum laoreet iaculis nec sed magna.</p>
+            <p class="text-justify">Un joven apasionado por el cine, la música, la fotografía, la escritura y el arte en general. 
+              Originario de Costa Rica y nacido en 2002 con todas las intenciones de crecer en el mundo multimedia.</p>
           </div>
 
           <div class="col-xs-6 col-md-3">	           
@@ -26,8 +27,8 @@
           <div class="col-xs-6 col-md-3">
             <h6>Más Contenido</h6>
             <ul class="footer-links">
-              <li><a href="#">Mi Currículum</a></li>       
-              <li><a href="#">Política de Privacidad</a></li>            
+              <li><a href="curriculum">Mi Currículum</a></li>       
+              <li><a href="privacy-policy">Política de Privacidad</a></li>            
             </ul>
           </div>
         </div>
@@ -37,16 +38,16 @@
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
             <p class="copyright-text">Copyright &copy; 2023 Todos los derechos a
-         <a href="#">Marco Pal'Jim</a>
+         <a href="#mi-historia">Marco Pal'Jim</a>
             </p>
           </div>
 
           <div class="col-md-4 col-sm-6 col-xs-12">
             <ul class="social-icons">
-              <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
-              <li><a class="behance" href="#"><i class="fa fa-behance"></i></a></li>
-              <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>   
+              <li><a class="facebook" href="https://www.facebook.com/marco.palmajriii/"><i class="fa fa-facebook"></i></a></li>
+              <li><a class="instagram" href="https://www.instagram.com/marco_paljimphotograph/"><i class="fa fa-instagram"></i></a></li>
+              <li><a class="behance" href="https://www.behance.net/marcopaljim"><i class="fa fa-behance"></i></a></li>
+              <li><a class="linkedin" href="https://www.linkedin.com/in/marco-palmajim/"><i class="fa fa-linkedin"></i></a></li>   
             </ul>
           </div>
         </div>
